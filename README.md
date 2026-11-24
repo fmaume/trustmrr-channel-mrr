@@ -36,9 +36,3 @@ node scripts/build-chart.js data/dataset_latest.json trustmrr_channel_mrr_chart.
 - **AVG MoM**: mean month-over-month growth.
 - Startups with an empty MoM value are excluded from the MoM statistics only.
 - A startup can appear in several channels, so cumulative MRR across channels overlaps and should not be summed.
-
-## Input assumption
-
-The actor input used for the included dataset is inferred, because the original input was not recorded: the 23 `/channels/<slug>` URLs, `scrollLimit` 3 (about 90 startups per channel), and profile plus extended-profile scraping on. See `skill/trustmrr-channel-mrr-chart/input.json`.
-
-Data is from TrustMRR (https://trustmrr.com). Check its terms before reusing the data.
