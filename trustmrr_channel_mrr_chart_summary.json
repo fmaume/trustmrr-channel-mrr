@@ -1,0 +1,209 @@
+[
+  {
+    "channel": "seo",
+    "cumulativeMRR": 1640487.18,
+    "count": 90,
+    "momN": 90,
+    "q1": -4.771488739825207,
+    "avgMoM": 1.0740811142787405,
+    "q3": 2.9069091035190047
+  },
+  {
+    "channel": "meta-ads",
+    "cumulativeMRR": 1533785.8,
+    "count": 90,
+    "momN": 87,
+    "q1": -8.143218510497784,
+    "avgMoM": 0.4189819782356602,
+    "q3": 6.110181612740666
+  },
+  {
+    "channel": "instagram",
+    "cumulativeMRR": 1486218.68,
+    "count": 90,
+    "momN": 89,
+    "q1": -2.845402387967127,
+    "avgMoM": 3.045033168319878,
+    "q3": 6.51881879458508
+  },
+  {
+    "channel": "linkedin",
+    "cumulativeMRR": 876916.63,
+    "count": 90,
+    "momN": 90,
+    "q1": -5.387495274021648,
+    "avgMoM": 9.32381903376677,
+    "q3": 10.174017392129398
+  },
+  {
+    "channel": "tiktok",
+    "cumulativeMRR": 817489.96,
+    "count": 90,
+    "momN": 90,
+    "q1": -9.745031123661526,
+    "avgMoM": 2.9221495716021284,
+    "q3": 6.2987532019614
+  },
+  {
+    "channel": "youtube",
+    "cumulativeMRR": 679549.35,
+    "count": 90,
+    "momN": 90,
+    "q1": -8.809822005630307,
+    "avgMoM": 16.62934562765844,
+    "q3": 2.780148742845715
+  },
+  {
+    "channel": "facebook",
+    "cumulativeMRR": 661505.72,
+    "count": 90,
+    "momN": 90,
+    "q1": -4.13389712370238,
+    "avgMoM": -0.09258614815980416,
+    "q3": 2.020902293857981
+  },
+  {
+    "channel": "twitter",
+    "cumulativeMRR": 601441.66,
+    "count": 90,
+    "momN": 90,
+    "q1": -5.72966913855202,
+    "avgMoM": 41.57724493505989,
+    "q3": 10.663607413216566
+  },
+  {
+    "channel": "google-ads",
+    "cumulativeMRR": 553917.15,
+    "count": 90,
+    "momN": 89,
+    "q1": -2.715816113463187,
+    "avgMoM": 7.2594153770307495,
+    "q3": 3.5398671448159833
+  },
+  {
+    "channel": "reddit",
+    "cumulativeMRR": 536293.76,
+    "count": 90,
+    "momN": 90,
+    "q1": -8.681627973593375,
+    "avgMoM": 49.45928775124745,
+    "q3": 4.695342628585065
+  },
+  {
+    "channel": "affiliate",
+    "cumulativeMRR": 529181.22,
+    "count": 90,
+    "momN": 90,
+    "q1": -6.189927764823171,
+    "avgMoM": 5.500425838108408,
+    "q3": 9.752681403135178
+  },
+  {
+    "channel": "cold-email",
+    "cumulativeMRR": 461897.44,
+    "count": 90,
+    "momN": 89,
+    "q1": -3.716704521990502,
+    "avgMoM": 8.704832069533419,
+    "q3": 4.751908396946565
+  },
+  {
+    "channel": "tiktok-ads",
+    "cumulativeMRR": 421661.65,
+    "count": 61,
+    "momN": 57,
+    "q1": -9.889578910680914,
+    "avgMoM": 7.309430602938421,
+    "q3": 3.2091075958504347
+  },
+  {
+    "channel": "linkedin-ads",
+    "cumulativeMRR": 394203.25,
+    "count": 37,
+    "momN": 23,
+    "q1": -2.2668856128413193,
+    "avgMoM": 0.446255629101393,
+    "q3": 0
+  },
+  {
+    "channel": "cold-dm",
+    "cumulativeMRR": 387471.44,
+    "count": 90,
+    "momN": 88,
+    "q1": -7.763750954927426,
+    "avgMoM": 22.01906709674669,
+    "q3": 6.686108984049868
+  },
+  {
+    "channel": "influencers",
+    "cumulativeMRR": 322483.11,
+    "count": 90,
+    "momN": 90,
+    "q1": -3.8112631227617326,
+    "avgMoM": 77.12288458497686,
+    "q3": 2.9428071834078966
+  },
+  {
+    "channel": "referral-program",
+    "cumulativeMRR": 285231.99,
+    "count": 90,
+    "momN": 85,
+    "q1": -2.7275222697752115,
+    "avgMoM": 31.81285603173745,
+    "q3": 15.326807439702225
+  },
+  {
+    "channel": "twitter-ads",
+    "cumulativeMRR": 245716.92,
+    "count": 42,
+    "momN": 32,
+    "q1": 0,
+    "avgMoM": 3.8047901635230232,
+    "q3": 0
+  },
+  {
+    "channel": "youtube-ads",
+    "cumulativeMRR": 230309.55,
+    "count": 18,
+    "momN": 16,
+    "q1": -2.042420362530385,
+    "avgMoM": 4.202630782272921,
+    "q3": 2.9953467642975857
+  },
+  {
+    "channel": "pinterest",
+    "cumulativeMRR": 87915.4,
+    "count": 89,
+    "momN": 70,
+    "q1": 0,
+    "avgMoM": 20.503215266281337,
+    "q3": 2.406830696887826
+  },
+  {
+    "channel": "podcast",
+    "cumulativeMRR": 81009.03,
+    "count": 11,
+    "momN": 10,
+    "q1": -3.5329962277650946,
+    "avgMoM": 0.28415374584500547,
+    "q3": 0
+  },
+  {
+    "channel": "cold-calling",
+    "cumulativeMRR": 65923.72,
+    "count": 68,
+    "momN": 42,
+    "q1": 0,
+    "avgMoM": 19.674044336318353,
+    "q3": 0
+  },
+  {
+    "channel": "events",
+    "cumulativeMRR": 47315.95,
+    "count": 26,
+    "momN": 20,
+    "q1": -2.6321405682391203,
+    "avgMoM": 70.20710736661046,
+    "q3": 14.934023763482458
+  }
+]

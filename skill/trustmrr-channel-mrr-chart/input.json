@@ -1,0 +1,32 @@
+{
+  "categoryList": [
+    "https://trustmrr.com/channels/seo",
+    "https://trustmrr.com/channels/facebook",
+    "https://trustmrr.com/channels/instagram",
+    "https://trustmrr.com/channels/linkedin",
+    "https://trustmrr.com/channels/pinterest",
+    "https://trustmrr.com/channels/reddit",
+    "https://trustmrr.com/channels/youtube",
+    "https://trustmrr.com/channels/twitter",
+    "https://trustmrr.com/channels/tiktok",
+    "https://trustmrr.com/channels/google-ads",
+    "https://trustmrr.com/channels/linkedin-ads",
+    "https://trustmrr.com/channels/meta-ads",
+    "https://trustmrr.com/channels/tiktok-ads",
+    "https://trustmrr.com/channels/twitter-ads",
+    "https://trustmrr.com/channels/youtube-ads",
+    "https://trustmrr.com/channels/cold-email",
+    "https://trustmrr.com/channels/cold-dm",
+    "https://trustmrr.com/channels/cold-calling",
+    "https://trustmrr.com/channels/events",
+    "https://trustmrr.com/channels/affiliate",
+    "https://trustmrr.com/channels/influencers",
+    "https://trustmrr.com/channels/podcast",
+    "https://trustmrr.com/channels/referral-program"
+  ],
+  "scrollLimit": 3,
+  "scrapeProfile": true,
+  "includeExtendedProfile": true,
+  "includeUpdates": false,
+  "includeRevenueTimeSeries": false
+}
